@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.1
+Built-By: vanzer
+Build-Jdk: 10.0.2
+Implementation-Title: demo-fiap
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.fiap
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demo-fiap
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: br.com.fiap.demofiap.DemoFiapApplication
+Spring-Boot-Version: 2.1.4.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+
